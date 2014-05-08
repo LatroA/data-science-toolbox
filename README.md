@@ -1,4 +1,8 @@
-data-science-toolbox
-====================
+## This is a secondary heading
+### This is a tertiary heading
 
-Repo for the Data Scientist Toolbox course on Coursera
+* Item 1
+* Item 2
+* Item 3
+
+
